@@ -68,5 +68,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Autor
 
 -   Nombre: Guadalupe Amavizca Quintero
--   Email: a23311027@uthermosillo.edu.mx
+-   Email: a23311036@uthermosillo.edu.mx
 -   GitHub: [@gaq2](https://github.com/gaq2/videojuegos)
